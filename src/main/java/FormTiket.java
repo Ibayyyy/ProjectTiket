@@ -113,7 +113,7 @@ public class FormTiket extends javax.swing.JFrame {
         jPanel3.setBackground(new java.awt.Color(204, 204, 204));
         jPanel3.setBorder(javax.swing.BorderFactory.createTitledBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)), "Form"));
 
-        jLabel2.setText("Nama Pembeli");
+        jLabel2.setText("Nama Pemesan");
 
         jLabel3.setText("Kode Kereta");
 
